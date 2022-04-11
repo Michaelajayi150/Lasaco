@@ -1,0 +1,111 @@
+/* body {
+  height: 100vh;
+  /* background: linear-gradient(-45deg,#6d65da 0, #6d65da 80%, #fff 70%, #fff 100%); */
+
+.log-form-control {
+  display: flex;
+  width: 400px;
+  color: #fff;
+  flex-direction: column;
+  align-items: center;
+  margin: 20% auto;
+  transform: translateY(-30%);
+}
+
+.log-form-control .input-control input {
+  width: 300px;
+  background: rgba(255, 255, 255, 0.4);
+  color: #fff;
+  padding: 15px 30px;
+  margin: 15px auto;
+  outline: none;
+  border: none;
+}
+
+.log-form-control .input-control input::placeholder {
+  color: #fff;
+}
+
+.log-form-control .input-control {
+  position: relative;
+}
+
+.log-form-control .input-control label {
+  position: absolute;
+  top: 27px;
+  left: 7px;
+  cursor: text;
+}
+
+.log-form-control .form-btn {
+  background: rgba(189, 189, 189, 0.5);
+  width: 300px;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+  padding: 15px 30px;
+  margin: 25px auto 0;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+}
+
+.log-form-control .form-remember {
+  width: 360px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.log-form-control .form-remember label {
+  padding-left: 7px;
+  cursor: pointer;
+}
+
+.dept-cards {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 1200px;
+  flex-wrap: wrap;
+}
+
+.dept-cards .dept-card-item h2 {
+  text-transform: capitalize;
+}
+
+.dept-cards .dept-card-item {
+  background-color: rgba(189, 189, 189, 0.5);
+  width: 300px;
+  height: 200px;
+  color: #fff;
+  text-align: center;
+  padding: 20px 15px;
+  margin: 30px 15px;
+  box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.dept-pass {
+  display: none;
+}
+
+.dept-cards .dept-card-item:hover .dept-pass {
+  display: block;
+}
+
+.dept-cards .dept-card-item .dept-pass input {
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 10px 0 0 10px;
+}
+
+.dept-cards .dept-card-item .dept-pass button {
+  background-color: #6d65da;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 0 10px 10px 0;
+  cursor: pointer;
+}
