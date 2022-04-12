@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Michaelajayi150/lasaco/static/css/main.1195aad7.css",
-    "main.js": "/Michaelajayi150/lasaco/static/js/main.b9ad5fed.js",
+    "main.css": "/Michaelajayi150/lasaco/static/css/main.d6ac9e29.css",
+    "main.js": "/Michaelajayi150/lasaco/static/js/main.5184e272.js",
     "static/js/787.21be9dbf.chunk.js": "/Michaelajayi150/lasaco/static/js/787.21be9dbf.chunk.js",
+    "static/media/lasaco-bg.jpg": "/Michaelajayi150/lasaco/static/media/lasaco-bg.964a318f5586eb06a64e.jpg",
     "index.html": "/Michaelajayi150/lasaco/index.html",
-    "main.1195aad7.css.map": "/Michaelajayi150/lasaco/static/css/main.1195aad7.css.map",
-    "main.b9ad5fed.js.map": "/Michaelajayi150/lasaco/static/js/main.b9ad5fed.js.map",
+    "main.d6ac9e29.css.map": "/Michaelajayi150/lasaco/static/css/main.d6ac9e29.css.map",
+    "main.5184e272.js.map": "/Michaelajayi150/lasaco/static/js/main.5184e272.js.map",
     "787.21be9dbf.chunk.js.map": "/Michaelajayi150/lasaco/static/js/787.21be9dbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1195aad7.css",
-    "static/js/main.b9ad5fed.js"
+    "static/css/main.d6ac9e29.css",
+    "static/js/main.5184e272.js"
   ]
 }
