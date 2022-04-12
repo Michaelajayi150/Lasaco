@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Michaelajayi150/lasaco/static/css/main.1195aad7.css",
+    "main.js": "/Michaelajayi150/lasaco/static/js/main.b9ad5fed.js",
+    "static/js/787.21be9dbf.chunk.js": "/Michaelajayi150/lasaco/static/js/787.21be9dbf.chunk.js",
+    "index.html": "/Michaelajayi150/lasaco/index.html",
+    "main.1195aad7.css.map": "/Michaelajayi150/lasaco/static/css/main.1195aad7.css.map",
+    "main.b9ad5fed.js.map": "/Michaelajayi150/lasaco/static/js/main.b9ad5fed.js.map",
+    "787.21be9dbf.chunk.js.map": "/Michaelajayi150/lasaco/static/js/787.21be9dbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1195aad7.css",
+    "static/js/main.b9ad5fed.js"
+  ]
+}
