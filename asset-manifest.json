@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Michaelajayi150/lasaco/static/css/main.d6ac9e29.css",
-    "main.js": "/Michaelajayi150/lasaco/static/js/main.35e9e4c4.js",
-    "static/js/787.21be9dbf.chunk.js": "/Michaelajayi150/lasaco/static/js/787.21be9dbf.chunk.js",
-    "static/media/lasaco-bg.jpg": "/Michaelajayi150/lasaco/static/media/lasaco-bg.964a318f5586eb06a64e.jpg",
-    "index.html": "/Michaelajayi150/lasaco/index.html",
-    "main.d6ac9e29.css.map": "/Michaelajayi150/lasaco/static/css/main.d6ac9e29.css.map",
-    "main.35e9e4c4.js.map": "/Michaelajayi150/lasaco/static/js/main.35e9e4c4.js.map",
-    "787.21be9dbf.chunk.js.map": "/Michaelajayi150/lasaco/static/js/787.21be9dbf.chunk.js.map"
+    "main.css": "/Lasaco/static/css/main.d6ac9e29.css",
+    "main.js": "/Lasaco/static/js/main.cac961de.js",
+    "static/js/787.21be9dbf.chunk.js": "/Lasaco/static/js/787.21be9dbf.chunk.js",
+    "static/media/lasaco-bg.jpg": "/Lasaco/static/media/lasaco-bg.964a318f5586eb06a64e.jpg",
+    "index.html": "/Lasaco/index.html",
+    "main.d6ac9e29.css.map": "/Lasaco/static/css/main.d6ac9e29.css.map",
+    "main.cac961de.js.map": "/Lasaco/static/js/main.cac961de.js.map",
+    "787.21be9dbf.chunk.js.map": "/Lasaco/static/js/787.21be9dbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6ac9e29.css",
-    "static/js/main.35e9e4c4.js"
+    "static/js/main.cac961de.js"
   ]
 }
