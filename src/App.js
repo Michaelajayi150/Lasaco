@@ -1,16 +1,19 @@
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
-import Login from "./components/Login";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import DepartmentList from "./components/DepartmentList";
+import DepartmentList from "./Component/DepartmentList";
+import Background from "./lasaco-bg.jpg";
+import Login from "./Component/Login";
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Login />} />
-        <Route path="deptlist" element={<DepartmentList />} />
-      </Routes>
-    </BrowserRouter>
+    <div className="main" style={{ backgroundImage: `url(${Background})` }}>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Login />} />
+          <Route path="/deptlist" element={<DepartmentList />} />
+        </Routes>
+      </BrowserRouter>
+    </div>
   );
 }
 

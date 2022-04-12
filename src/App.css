@@ -1,15 +1,21 @@
-/* body {
+.main {
   height: 100vh;
   /* background: linear-gradient(-45deg,#6d65da 0, #6d65da 80%, #fff 70%, #fff 100%); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
 
 .log-form-control {
   display: flex;
   width: 400px;
+  height: 100%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
   color: #fff;
   flex-direction: column;
   align-items: center;
-  margin: 20% auto;
-  transform: translateY(-30%);
 }
 
 .log-form-control .input-control input {
