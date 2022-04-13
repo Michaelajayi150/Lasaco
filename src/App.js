@@ -9,7 +9,7 @@ function App() {
     <div className="main" style={{ backgroundImage: `url(${Background})` }}>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Login />} />
+          <Route path="/Lasaco" element={<Login />} />
           <Route path="/deptlist" element={<DepartmentList />} />
         </Routes>
       </BrowserRouter>
